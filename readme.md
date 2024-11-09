@@ -11,6 +11,8 @@ A small video demo of the app on iOS and Android is available here: [![Club App 
 - [Screens](#screens)
 - [Installation](#installation)
 - [Usage](#usage)
+- [APK](#apk)
+  
 
 ## Project Overview
 
@@ -60,3 +62,7 @@ npx expo run:android # For Android
 - **Home Screen**: View a list of all clubs. Tap on a club to see its details.
 - **Club Details Screen**: View the club’s information and the list of players for the current season.
 - **Add Club Screen**: Accessible from the Home Screen, allowing users to add clubs directly to the Redux store in real-time.
+
+## APK
+
+The APK file is located here: [app.zip](app.zip)
